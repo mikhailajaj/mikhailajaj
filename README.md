@@ -9,7 +9,7 @@
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
-##  <img align ='center'  src="https://camo.githubusercontent.com/fa3f93cb1d798e508be9a9c42bb181f28a086be351af3c29172eb51cd248410f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646a683264444d3462446879597a4d354e6d707061484a36644735364d6d683362546b79616e466b645752765a33523163476f7963535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a512f4c4f6e743675716a44394f65786d514a52422f67697068792e676966" width="37" />About Me
+<h1><img align ='center'  src="https://camo.githubusercontent.com/fa3f93cb1d798e508be9a9c42bb181f28a086be351af3c29172eb51cd248410f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646a683264444d3462446879597a4d354e6d707061484a36644735364d6d683362546b79616e466b645752765a33523163476f7963535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a512f4c4f6e743675716a44394f65786d514a52422f67697068792e676966" width="37" />About Me</h1>
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
