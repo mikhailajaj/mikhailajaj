@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi <img src="blob/main/icons/Hi.gif" width="28px"/>, I'm Mikhail</h1>
 <h2 align="center">
   Fullstack Developer
