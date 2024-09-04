@@ -17,7 +17,9 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
 <details>
  <summary>
     <h4> 
+      <span>
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/about.png" width="37" /> 
+      </span>
     Resume
     </h4>
      
