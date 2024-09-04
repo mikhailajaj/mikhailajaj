@@ -14,7 +14,7 @@ I'm Mikhail Ajaj, a dynamic and passionate Software Developer on a mission to cr
 
 <h2>💡 What Drives Me</h2>
 I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, Android Development, iOS development and Software developmennt allows me to bring diverse projects to life. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always up for the challenge!
-<details>
+<details open>
  <summary>
     <h4>  
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/about.png" width="37" /> 
