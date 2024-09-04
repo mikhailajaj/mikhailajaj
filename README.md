@@ -16,15 +16,15 @@ I'm Mikhail Ajaj, a dynamic and passionate Software Developer on a mission to cr
 I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, Android Development, iOS development and Software developmennt allows me to bring diverse projects to life. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always up for the challenge!
 <details>
  <summary>
-    <h2> 
+    <h4> 
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/about.png" width="37" /> 
     Resume
-      </h2>
+      </h4>
          <p><a href="https://github.com/mikhailajaj/mikhailajaj/blob/f4eea880177019840cdc87c5fd2f23501599e1dd/resume/Software%20Developer.pdf" target="_blank">Software developer</a></p>
     
  
 </summary>
-
+</details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-SheridanCollege-1877F2?style=for-the-badge"></span>
