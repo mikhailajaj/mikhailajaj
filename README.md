@@ -20,8 +20,9 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/about.png" width="37" /> 
     Resume
       </h4>
-         <p><a href="https://github.com/mikhailajaj/mikhailajaj/blob/f4eea880177019840cdc87c5fd2f23501599e1dd/resume/Software%20Developer.pdf" target="_blank">Software developer</a></p>
-    
+         <ul>
+           <li><a href="https://github.com/mikhailajaj/mikhailajaj/blob/f4eea880177019840cdc87c5fd2f23501599e1dd/resume/Software%20Developer.pdf" target="_blank">Software developer</a></li>
+         </ul>
  
 </summary>
 </details>
