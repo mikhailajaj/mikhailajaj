@@ -12,6 +12,8 @@
 
 I'm Mikhail Ajaj, a dynamic and passionate Software Developer on a mission to create cutting-edge digital experiences. With a knack for both frontend and backend technologies, I'm your go-to developer for turning complex problems into elegant, user-friendly solutions.
 
+<h2>💡 What Drives Me</h2>
+I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, Android Development, and Chatbot Creation allows me to bring diverse projects to life. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I'm always up for the challenge!
 <details>
  <summary>
     <h2> 
