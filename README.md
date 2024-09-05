@@ -38,8 +38,12 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+  - **Project Manager & Lead Developer** at Secret Santa App | May 2024 – Sept 2024
+    - Led the development and launch of the Secret Santa App, which digitizes the traditional holiday gift exchange process. Spearheaded the technical architecture, system design, and implementation, ensuring a smooth, scalable user experience for participants and event organizers.
+    - Oversaw the integration of key features such as automated name drawing, gift preferences tracking, and event coordination, which addressed common challenges in managing Secret Santa events.
+    - Managed a cross-functional team that included a Scrum Master, UX/UI Designer, Business Analyst, and QA Lead, ensuring effective communication, risk management, and quality assurance throughout the project.
+    - Delivered on key milestones, including the implementation of user profile customization, in-app gift suggestions, and e-commerce integration for gift purchases, improving the overall user engagement and satisfaction.
+
  </details>
 </details>
 
