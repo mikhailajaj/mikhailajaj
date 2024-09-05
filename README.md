@@ -32,7 +32,7 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
   <span><img src="https://img.shields.io/badge/GPA-3.11-EFEEE9?style=for-the-badge"></span>
    <ul>
    <li><a href="https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing#tab=courses"> courses</a></li>
-   <li><a href="https://github.com/mikhailajaj/mikhailajaj/blob/75ac5ac95f7ab6a50b6e347fd43d9639c5d521e8/Transcripts/Transccript.pdf">Transcription </a></li>
+   <li><a href="https://github.com/mikhailajaj/mikhailajaj/blob/75ac5ac95f7ab6a50b6e347fd43d9639c5d521e8/Transcripts/Transccript.pdf">Transcript</a></li>
    </ul>
  </details>
 
