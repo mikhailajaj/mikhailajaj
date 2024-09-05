@@ -36,15 +36,24 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
    </ul>
  </details>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Project Manager & Lead Developer** at Secret Santa App | May 2024 – Sept 2024
-    - Led the development and launch of the Secret Santa App, which digitizes the traditional holiday gift exchange process. Spearheaded the technical architecture, system design, and implementation, ensuring a smooth, scalable user experience for participants and event organizers.
-    - Oversaw the integration of key features such as automated name drawing, gift preferences tracking, and event coordination, which addressed common challenges in managing Secret Santa events.
-    - Managed a cross-functional team that included a Scrum Master, UX/UI Designer, Business Analyst, and QA Lead, ensuring effective communication, risk management, and quality assurance throughout the project.
-    - Delivered on key milestones, including the implementation of user profile customization, in-app gift suggestions, and e-commerce integration for gift purchases, improving the overall user engagement and satisfaction.
+<details>
+  <summary>
+    <h4>
+      <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/experience.gif" width="29"/> Experience
+    </h4>
+  </summary>
+  <ul>
+    <li><strong>Project Manager & Lead Developer</strong> at Secret Santa App | May 2024 – Sept 2024</li>
+    <ul>
+      <li>Led the development and launch of the Secret Santa App, digitizing the traditional holiday gift exchange process.</li>
+      <li>Spearheaded technical architecture, system design, and implementation to ensure a smooth, scalable user experience for participants and event organizers.</li>
+      <li>Oversaw the integration of key features like automated name drawing, gift preferences tracking, and event coordination, addressing common challenges in managing Secret Santa events.</li>
+      <li>Managed a cross-functional team including Scrum Master, UX/UI Designer, Business Analyst, and QA Lead, ensuring effective communication, risk management, and quality assurance throughout the project.</li>
+      <li>Delivered key milestones, such as user profile customization, in-app gift suggestions, and e-commerce integration for gift purchases, improving overall user engagement and satisfaction.</li>
+    </ul>
+  </ul>
+</details>
 
- </details>
 </details>
 
 <details>
