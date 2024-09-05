@@ -30,8 +30,10 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
   <summary><h4> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-SheridanCollege-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-3.11-EFEEE9?style=for-the-badge"></span>
-   <a href="https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing#tab=courses"> courses</a>
-   <a href="">Transcription </a>
+   <ul>
+   <li><a href="https://www.sheridancollege.ca/programs/bachelor-computer-science-mobile-computing#tab=courses"> courses</a></li>
+   <li><a href="https://github.com/mikhailajaj/mikhailajaj/blob/75ac5ac95f7ab6a50b6e347fd43d9639c5d521e8/Transcripts/Transccript.pdf">Transcription </a></li>
+   </ul>
  </details>
 
  <details>
