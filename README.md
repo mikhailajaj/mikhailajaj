@@ -46,7 +46,7 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
     </h4>
   </summary>
   <ul>
-    <li><strong>Project Manager & Lead Developer</strong> at Secret Santa App | May 2024 – Sept 2024</li>
+    <li><strong>Project Manager & Lead Developer</strong> at Secret Santa App | Jan 2024 – May 2024</li>
     <ul>
       <li>Led the development and launch of the Secret Santa App, digitizing the traditional holiday gift exchange process.</li>
       <li>Spearheaded technical architecture, system design, and implementation to ensure a smooth, scalable user experience for participants and event organizers.</li>
