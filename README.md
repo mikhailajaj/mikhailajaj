@@ -1,13 +1,16 @@
 <h1 align="center">Hi <img src="blob/main/icons/Hi.gif" width="28px"/>, I'm Mikhail</h1>
+
 <h2 align="center">
   Software Developer
   <a href="https://mikhailajaj.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
+
 <div align="center">
  <img alt="GIF" src="https://github.com/mikhailajaj/mikhailajaj/blob/8d6cddb7b7a66f6e245f24905ba4462875fa5df9/blob/main/icons/tenor.gif" />
 </div>
+
 <h1><img align ='center'  src="https://camo.githubusercontent.com/fa3f93cb1d798e508be9a9c42bb181f28a086be351af3c29172eb51cd248410f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646a683264444d3462446879597a4d354e6d707061484a36644735364d6d683362546b79616e466b645752765a33523163476f7963535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a512f4c4f6e743675716a44394f65786d514a52422f67697068792e676966" width="37" />About Me</h1>
 
 I'm Mikhail Ajaj, a dynamic and passionate Software Developer on a mission to create cutting-edge digital experiences. With a knack for both frontend and backend technologies, I'm your go-to developer for turning complex problems into elegant, user-friendly solutions.
@@ -20,12 +23,12 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/about.png" width="37" /> 
     Resume
     </h4>
-   
   </summary>
    <ul>
         <li><a href="https://github.com/mikhailajaj/mikhailajaj/blob/f4eea880177019840cdc87c5fd2f23501599e1dd/resume/Software%20Developer.pdf" target="_blank">Software developer</a></li>
       </ul>
 </details>
+
  <details>
   <summary><h4> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-SheridanCollege-1877F2?style=for-the-badge"></span>
@@ -54,7 +57,7 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
   </ul>
 </details>
 
-</details>
+
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
