@@ -111,7 +111,7 @@ I'm not just a coder; I'm an innovator at heart. My expertise in MERN stack, And
   <summary><h2> <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
+    <a href="mailto:[mikhailajaj@gmail.com]">
       <img align="center" src="https://github.com/mikhailajaj/mikhailajaj/blob/3a56bbca89e8e86b4caf1afe5f133ee336b29aed/blob/main/icons/Gmail.gif" width="100"/>
     </a>
   </p>
